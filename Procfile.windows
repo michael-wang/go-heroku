@@ -1,0 +1,2 @@
+# Need this for I work on Windows locally.
+web: bin\go-heroku.exe
