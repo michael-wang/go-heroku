@@ -1,0 +1,10 @@
+{
+  "name": "Go Heroku",
+  "description": "Minimum Golang project to run on heroku",
+  "keywords": [
+    "getting-started",
+    "go"
+  ],
+  "website": "https://github.com/michael-wang/go-heroku",
+  "repository": "https://github.com/michael-wang/go-heroku"
+}
